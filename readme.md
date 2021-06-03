@@ -16,6 +16,13 @@ You can also copy and paste into .htaccess (however this is slower!)
 
 <h3>CHANGE LOG</h3>
 
+<strong>v2.2 - 2021.06</strong>
+- Syntax changes for Apache 2.4.4
+- More security
+- TLS 1.2+
+- Performance tuning for big server
+- Setings to avoid timeout with Nginx
+
 <strong>v1.3 - 2016.12.28</strong>
 - Syntax changes for Apache 2.4.4
 

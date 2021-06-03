@@ -20,7 +20,7 @@ You can also copy and paste into .htaccess (however this is slower!)
 - TLS 1.2+
 - More security headers
 - Performance tuning for big server
-- Setings to avoid timeout with Nginx
+- Settings to avoid timeout with Nginx
 
 <strong>v1.3 - 2016.12.28</strong>
 - Syntax changes for Apache 2.4.4

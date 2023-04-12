@@ -1,7 +1,7 @@
 <h3>The Perfect Apache Configuration
 
 Optimized for Apache 2.4.4 on Debian 9/10/11 + Nginx as reverse proxy + Plesk</h3>
-This a fork from https://github.com/gregrickaby/The-Perfect-Apache-Configuration.
+This is a fork from https://github.com/gregrickaby/The-Perfect-Apache-Configuration.
 
 Go to this page for more details on original file.
 

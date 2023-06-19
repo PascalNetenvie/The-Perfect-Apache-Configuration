@@ -14,6 +14,7 @@ On debian you should better create this file /etc/apache2/conf-enabled/zz999_you
 <strong>v2.4 - 2023.06</strong>
 <ul>
   <li>Better Headers security.</li>
+  <li>Prevent execution of phpx files.</li>
 </ul>
 
 <strong>v2.3 - 2023.04</strong>
